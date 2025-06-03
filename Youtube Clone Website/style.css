@@ -63,7 +63,7 @@
   padding-left: 20px;
   padding-top: 16px;
   padding-right: 90px;
-  border: 1px solid #e8e3e3;
+  /* border: 1px solid #e8e3e3; */
 }
 #voice-icon img{
   width: 20px;
@@ -104,6 +104,10 @@
   padding-top: 16px;
   padding-left: 30px;
   cursor: pointer;
+}
+
+.right-side{
+  margin-left: 50px;
 }
 
 /* Left-Side of Web Page */
